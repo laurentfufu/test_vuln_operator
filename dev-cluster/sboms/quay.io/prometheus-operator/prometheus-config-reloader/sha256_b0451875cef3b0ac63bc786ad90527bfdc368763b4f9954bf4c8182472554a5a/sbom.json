@@ -1,0 +1,569 @@
+{
+ "artifacts": [
+  {
+   "id": "899973c029584d9",
+   "name": "github.com/alecthomas/template",
+   "version": "v0.0.0-20190718012654-fb15b899a751",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:alecthomas:template:v0.0.0-20190718012654-fb15b899a751:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/alecthomas/template@v0.0.0-20190718012654-fb15b899a751",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:JYp7IbQjafoB+tBA3gMyHYHrpOtNuDiK/uB5uXxq5wM="
+   }
+  },
+  {
+   "id": "102133754ef92493",
+   "name": "github.com/alecthomas/units",
+   "version": "v0.0.0-20211218093645-b94a6e3cc137",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:alecthomas:units:v0.0.0-20211218093645-b94a6e3cc137:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/alecthomas/units@v0.0.0-20211218093645-b94a6e3cc137",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:s6gZFSlWYmbqAuRjVTiNNhvNRfY2Wxp9nhfyel4rklc="
+   }
+  },
+  {
+   "id": "93b95150c3da609a",
+   "name": "github.com/beorn7/perks",
+   "version": "v1.0.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:beorn7:perks:v1.0.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/beorn7/perks@v1.0.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM="
+   }
+  },
+  {
+   "id": "9f0af5997dafd3c7",
+   "name": "github.com/cespare/xxhash/v2",
+   "version": "v2.1.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:cespare:xxhash\\/v2:v2.1.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/cespare/xxhash/v2@v2.1.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:YRXhKfTDauu4ajMg1TPgFO5jnlC2HCbmLXMcTG5cbYE="
+   }
+  },
+  {
+   "id": "bed513542bfcb509",
+   "name": "github.com/fsnotify/fsnotify",
+   "version": "v1.5.4",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:fsnotify:fsnotify:v1.5.4:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/fsnotify/fsnotify@v1.5.4",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:jRbGcIw6P2Meqdwuo0H1p6JVLbL5DHKAKlYndzMwVZI="
+   }
+  },
+  {
+   "id": "40c6a2787d70c846",
+   "name": "github.com/go-kit/log",
+   "version": "v0.2.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:go-kit:log:v0.2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go_kit:log:v0.2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go:log:v0.2.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/go-kit/log@v0.2.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:MRVx0/zhvdseW+Gza6N9rVzU/IVzaeE1SFI4raAhmBU="
+   }
+  },
+  {
+   "id": "2371ee7f22ac0294",
+   "name": "github.com/go-logfmt/logfmt",
+   "version": "v0.5.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:go-logfmt:logfmt:v0.5.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go_logfmt:logfmt:v0.5.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go:logfmt:v0.5.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/go-logfmt/logfmt@v0.5.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:otpy5pqBCBZ1ng9RQ0dPu4PN7ba75Y/aA+UpowDyNVA="
+   }
+  },
+  {
+   "id": "49492de127f21a27",
+   "name": "github.com/golang/protobuf",
+   "version": "v1.5.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:protobuf:v1.5.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/golang/protobuf@v1.5.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:ROPKBNFfQgOUMifHyP+KYbvpjbdoFNs+aK7DXlji0Tw="
+   }
+  },
+  {
+   "id": "6fd433c74a1b0708",
+   "name": "github.com/matttproud/golang_protobuf_extensions",
+   "version": "v1.0.2-0.20181231171920-c182affec369",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:matttproud:golang-protobuf-extensions:v1.0.2-0.20181231171920-c182affec369:*:*:*:*:*:*:*",
+    "cpe:2.3:a:matttproud:golang_protobuf_extensions:v1.0.2-0.20181231171920-c182affec369:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/matttproud/golang_protobuf_extensions@v1.0.2-0.20181231171920-c182affec369",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:I0XW9+e1XWDxdcEniV4rQAIOPUGDq67JSCiRCgGCZLI="
+   }
+  },
+  {
+   "id": "8cd447bb3b40f550",
+   "name": "github.com/oklog/run",
+   "version": "v1.1.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:oklog:run:v1.1.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/oklog/run@v1.1.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:GEenZ1cK0+q0+wsJew9qUg/DyD8k3JzYsZAi5gYi2mA="
+   }
+  },
+  {
+   "id": "bc3da70ae5b45393",
+   "name": "github.com/pkg/errors",
+   "version": "v0.9.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:pkg:errors:v0.9.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/pkg/errors@v0.9.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4="
+   }
+  },
+  {
+   "id": "8440756398490232",
+   "name": "github.com/prometheus-operator/prometheus-operator",
+   "version": "(devel)",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:prometheus-operator:prometheus-operator:\\(devel\\):*:*:*:*:*:*:*",
+    "cpe:2.3:a:prometheus-operator:prometheus_operator:\\(devel\\):*:*:*:*:*:*:*",
+    "cpe:2.3:a:prometheus_operator:prometheus-operator:\\(devel\\):*:*:*:*:*:*:*",
+    "cpe:2.3:a:prometheus_operator:prometheus_operator:\\(devel\\):*:*:*:*:*:*:*",
+    "cpe:2.3:a:prometheus:prometheus-operator:\\(devel\\):*:*:*:*:*:*:*",
+    "cpe:2.3:a:prometheus:prometheus_operator:\\(devel\\):*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/prometheus-operator/prometheus-operator@(devel)",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64"
+   }
+  },
+  {
+   "id": "808c694d3f0dd388",
+   "name": "github.com/prometheus/client_golang",
+   "version": "v1.13.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:prometheus:client-golang:v1.13.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:prometheus:client_golang:v1.13.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/prometheus/client_golang@v1.13.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:b71QUfeo5M8gq2+evJdTPfZhYMAU0uKPkyPJ7TPsloU="
+   }
+  },
+  {
+   "id": "b659dbb9b9896d20",
+   "name": "github.com/prometheus/client_model",
+   "version": "v0.2.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:prometheus:client-model:v0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:prometheus:client_model:v0.2.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/prometheus/client_model@v0.2.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:uq5h0d+GuxiXLJLNABMgp2qUWDPiLvgCzz2dUR+/W/M="
+   }
+  },
+  {
+   "id": "299e85ed8da7cc68",
+   "name": "github.com/prometheus/common",
+   "version": "v0.37.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:prometheus:common:v0.37.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/prometheus/common@v0.37.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:ccBbHCgIiT9uSoFY0vX8H3zsNR5eLt17/RQLUvn8pXE="
+   }
+  },
+  {
+   "id": "efc10729dc87dea6",
+   "name": "github.com/prometheus/procfs",
+   "version": "v0.8.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:prometheus:procfs:v0.8.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/prometheus/procfs@v0.8.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:ODq8ZFEaYeCaZOJlZZdJA2AbQR98dSHSM1KW/You5mo="
+   }
+  },
+  {
+   "id": "e58116e0121780dd",
+   "name": "github.com/thanos-io/thanos",
+   "version": "v0.28.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:thanos-io:thanos:v0.28.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:thanos_io:thanos:v0.28.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:thanos:thanos:v0.28.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/thanos-io/thanos@v0.28.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:g0LByBE0ANA30/t/a2C/mceYhO3VtIPQFoxCsqrYM9I="
+   }
+  },
+  {
+   "id": "888bf6df9c32a441",
+   "name": "golang.org/x/sys",
+   "version": "v0.0.0-20220919091848-fb04ddd9f9c8",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/sys:v0.0.0-20220919091848-fb04ddd9f9c8:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/sys@v0.0.0-20220919091848-fb04ddd9f9c8",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:h+EGohizhe9XlX18rfpa8k8RAc5XyaeamM+0VHRd4lc="
+   }
+  },
+  {
+   "id": "33a40cc75f821301",
+   "name": "google.golang.org/protobuf",
+   "version": "v1.28.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:google:protobuf:v1.28.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/google.golang.org/protobuf@v1.28.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:d0NfwRgPtno5B1Wa6L2DAG+KivqkdutMf1UhdNx175w="
+   }
+  },
+  {
+   "id": "b291791c6c3feb65",
+   "name": "gopkg.in/alecthomas/kingpin.v2",
+   "version": "v2.2.6",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/bin/prometheus-config-reloader",
+     "layerID": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/gopkg.in/alecthomas/kingpin.v2@v2.2.6",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.6",
+    "architecture": "amd64",
+    "h1Digest": "h1:jMFz6MfLP0/4fUyZle81rXUoxOBFi19VUFKVDOQfozc="
+   }
+  }
+ ],
+ "artifactRelationships": [],
+ "source": {
+  "type": "image",
+  "target": {
+   "userInput": "/tmp/sha256_b0451875cef3b0ac63bc786ad90527bfdc368763b4f9954bf4c8182472554a5a.tar.gz",
+   "imageID": "sha256:6dd13479f48447ab4b87990c4feaa76eb27704a7368bc9c5bb85d914bd77d084",
+   "manifestDigest": "sha256:51d77dd5c206ce0687797caa3251e906785db9aa53402c3a643727b4f6660363",
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "tags": [
+    "quay.io/prometheus-operator/prometheus-config-reloader:i-was-a-digest"
+   ],
+   "imageSize": 12182765,
+   "layers": [
+    {
+     "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+     "digest": "sha256:084326605ab6715ca698453e530e4d0319d4e402b468894a06affef944b4ef04",
+     "size": 1243868
+    },
+    {
+     "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+     "digest": "sha256:5295faa045209ff9800d03fe1ccc94431dac6a54dac2edc7f6d06ee1e58bb0be",
+     "size": 1423889
+    },
+    {
+     "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+     "digest": "sha256:3c4edcaf5ce073c99e78d453442c34c85fc8d6c4dbbbb9cdff17637253167015",
+     "size": 9515008
+    }
+   ],
+   "manifest": "eyJzY2hlbWFWZXJzaW9uIjoyLCJtZWRpYVR5cGUiOiJhcHBsaWNhdGlvbi92bmQuZG9ja2VyLmRpc3RyaWJ1dGlvbi5tYW5pZmVzdC52Mitqc29uIiwiY29uZmlnIjp7Im1lZGlhVHlwZSI6ImFwcGxpY2F0aW9uL3ZuZC5kb2NrZXIuY29udGFpbmVyLmltYWdlLnYxK2pzb24iLCJzaXplIjoyNjc4LCJkaWdlc3QiOiJzaGEyNTY6NmRkMTM0NzlmNDg0NDdhYjRiODc5OTBjNGZlYWE3NmViMjc3MDRhNzM2OGJjOWM1YmI4NWQ5MTRiZDc3ZDA4NCJ9LCJsYXllcnMiOlt7Im1lZGlhVHlwZSI6ImFwcGxpY2F0aW9uL3ZuZC5kb2NrZXIuaW1hZ2Uucm9vdGZzLmRpZmYudGFyLmd6aXAiLCJzaXplIjo3NzMyNjIsImRpZ2VzdCI6InNoYTI1NjowODQzMjY2MDVhYjY3MTVjYTY5ODQ1M2U1MzBlNGQwMzE5ZDRlNDAyYjQ2ODg5NGEwNmFmZmVmOTQ0YjRlZjA0In0seyJtZWRpYVR5cGUiOiJhcHBsaWNhdGlvbi92bmQuZG9ja2VyLmltYWdlLnJvb3Rmcy5kaWZmLnRhci5nemlwIiwic2l6ZSI6NDg5NjE4LCJkaWdlc3QiOiJzaGEyNTY6NTI5NWZhYTA0NTIwOWZmOTgwMGQwM2ZlMWNjYzk0NDMxZGFjNmE1NGRhYzJlZGM3ZjZkMDZlZTFlNThiYjBiZSJ9LHsibWVkaWFUeXBlIjoiYXBwbGljYXRpb24vdm5kLmRvY2tlci5pbWFnZS5yb290ZnMuZGlmZi50YXIuZ3ppcCIsInNpemUiOjM3NjQ2ODMsImRpZ2VzdCI6InNoYTI1NjozYzRlZGNhZjVjZTA3M2M5OWU3OGQ0NTM0NDJjMzRjODVmYzhkNmM0ZGJiYmI5Y2RmZjE3NjM3MjUzMTY3MDE1In1dfQ==",
+   "config": "eyJhcmNoaXRlY3R1cmUiOiJhbWQ2NCIsImNvbmZpZyI6eyJIb3N0bmFtZSI6IiIsIkRvbWFpbm5hbWUiOiIiLCJVc2VyIjoibm9ib2R5IiwiQXR0YWNoU3RkaW4iOmZhbHNlLCJBdHRhY2hTdGRvdXQiOmZhbHNlLCJBdHRhY2hTdGRlcnIiOmZhbHNlLCJUdHkiOmZhbHNlLCJPcGVuU3RkaW4iOmZhbHNlLCJTdGRpbk9uY2UiOmZhbHNlLCJFbnYiOlsiUEFUSD0vdXNyL2xvY2FsL3NiaW46L3Vzci9sb2NhbC9iaW46L3Vzci9zYmluOi91c3IvYmluOi9zYmluOi9iaW4iXSwiQ21kIjpudWxsLCJJbWFnZSI6InNoYTI1Njo3ZmFlNGZjMGMxYzQzYjJkOWZkNzVmNzg4NGY0YWIzOWI1MzQxZDA1MDA1MGI3NzIwMDEzYjY1NzdlZmJiNDkwIiwiVm9sdW1lcyI6bnVsbCwiV29ya2luZ0RpciI6IiIsIkVudHJ5cG9pbnQiOlsiL2Jpbi9wcm9tZXRoZXVzLWNvbmZpZy1yZWxvYWRlciJdLCJPbkJ1aWxkIjpudWxsLCJMYWJlbHMiOm51bGx9LCJjb250YWluZXIiOiIxOGQxNWJmY2QxNTNkNzQ4NTQ2Y2VkYjc3NTc0ODk3OTM4YWQ4MzNmNTRhMjY2ZDc3Y2VlNmRhNjYwN2MwNzkzIiwiY29udGFpbmVyX2NvbmZpZyI6eyJIb3N0bmFtZSI6IjE4ZDE1YmZjZDE1MyIsIkRvbWFpbm5hbWUiOiIiLCJVc2VyIjoibm9ib2R5IiwiQXR0YWNoU3RkaW4iOmZhbHNlLCJBdHRhY2hTdGRvdXQiOmZhbHNlLCJBdHRhY2hTdGRlcnIiOmZhbHNlLCJUdHkiOmZhbHNlLCJPcGVuU3RkaW4iOmZhbHNlLCJTdGRpbk9uY2UiOmZhbHNlLCJFbnYiOlsiUEFUSD0vdXNyL2xvY2FsL3NiaW46L3Vzci9sb2NhbC9iaW46L3Vzci9zYmluOi91c3IvYmluOi9zYmluOi9iaW4iXSwiQ21kIjpbIi9iaW4vc2giLCItYyIsIiMobm9wKSAiLCJFTlRSWVBPSU5UIFtcIi9iaW4vcHJvbWV0aGV1cy1jb25maWctcmVsb2FkZXJcIl0iXSwiSW1hZ2UiOiJzaGEyNTY6N2ZhZTRmYzBjMWM0M2IyZDlmZDc1Zjc4ODRmNGFiMzliNTM0MWQwNTAwNTBiNzcyMDAxM2I2NTc3ZWZiYjQ5MCIsIlZvbHVtZXMiOm51bGwsIldvcmtpbmdEaXIiOiIiLCJFbnRyeXBvaW50IjpbIi9iaW4vcHJvbWV0aGV1cy1jb25maWctcmVsb2FkZXIiXSwiT25CdWlsZCI6bnVsbCwiTGFiZWxzIjp7fX0sImNyZWF0ZWQiOiIyMDIyLTEwLTExVDA3OjQ1OjIwLjE3MzU2ODM4OVoiLCJkb2NrZXJfdmVyc2lvbiI6IjIwLjEwLjE4K2F6dXJlLTEiLCJoaXN0b3J5IjpbeyJjcmVhdGVkIjoiMjAyMi0wNy0yOVQyMDoyNjoyMi41ODM0MjQ1MjhaIiwiY3JlYXRlZF9ieSI6Ii9iaW4vc2ggLWMgIyhub3ApIEFERCBmaWxlOjAzZWQ4YTFhMGU0YzgwMzA4YjIyMzA1ZmUwZDAwZWJiYjllMWY2MjZjMmIyZmQ5MWQzYTUwYTk4ZmMxMWIyZjcgaW4gLyAifSx7ImNyZWF0ZWQiOiIyMDIyLTA3LTI5VDIwOjI2OjIyLjY3MzA1NDYyM1oiLCJjcmVhdGVkX2J5IjoiL2Jpbi9zaCAtYyAjKG5vcCkgIENNRCBbXCJzaFwiXSIsImVtcHR5X2xheWVyIjp0cnVlfSx7ImNyZWF0ZWQiOiIyMDIyLTA4LTE1VDEwOjU1OjA0LjgzNTQ0OTY4NVoiLCJhdXRob3IiOiJUaGUgUHJvbWV0aGV1cyBBdXRob3JzIFx1MDAzY3Byb21ldGhldXMtZGV2ZWxvcGVyc0Bnb29nbGVncm91cHMuY29tXHUwMDNlIiwiY3JlYXRlZF9ieSI6Ii9iaW4vc2ggLWMgIyhub3ApICBNQUlOVEFJTkVSIFRoZSBQcm9tZXRoZXVzIEF1dGhvcnMgXHUwMDNjcHJvbWV0aGV1cy1kZXZlbG9wZXJzQGdvb2dsZWdyb3Vwcy5jb21cdTAwM2UiLCJlbXB0eV9sYXllciI6dHJ1ZX0seyJjcmVhdGVkIjoiMjAyMi0wOC0xNVQxMDo1NTowNS41Mjc5MTY3NzVaIiwiYXV0aG9yIjoiVGhlIFByb21ldGhldXMgQXV0aG9ycyBcdTAwM2Nwcm9tZXRoZXVzLWRldmVsb3BlcnNAZ29vZ2xlZ3JvdXBzLmNvbVx1MDAzZSIsImNyZWF0ZWRfYnkiOiIvYmluL3NoIC1jICMobm9wKSBDT1BZIGRpcjplNDg2NDIzMzg1NWM4ZWUwMWViYTA2MWY3MjFkZDVmM2U4NDg4MWU3N2Q3ZDk5MjMwY2JkNzg4ZjM0OGNlYTRlIGluIC8gIn0seyJjcmVhdGVkIjoiMjAyMi0xMC0xMVQwNzo0NToxOS4xNjgwOTA4NTZaIiwiY3JlYXRlZF9ieSI6Ii9iaW4vc2ggLWMgIyhub3ApIENPUFkgZmlsZTpkNjM5NmQ0MGU3MzMyMDBjODM3M2I5MzE5ODVmYjYxNmMxZTFmZTQyYmY3ZjEwMGEyM2EyN2EwZjMwOTQyYzUxIGluIC9iaW4vcHJvbWV0aGV1cy1jb25maWctcmVsb2FkZXIgIn0seyJjcmVhdGVkIjoiMjAyMi0xMC0xMVQwNzo0NToxOS4zMzYzNTQ4NjJaIiwiY3JlYXRlZF9ieSI6Ii9iaW4vc2ggLWMgIyhub3ApICBVU0VSIG5vYm9keSIsImVtcHR5X2xheWVyIjp0cnVlfSx7ImNyZWF0ZWQiOiIyMDIyLTEwLTExVDA3OjQ1OjIwLjE3MzU2ODM4OVoiLCJjcmVhdGVkX2J5IjoiL2Jpbi9zaCAtYyAjKG5vcCkgIEVOVFJZUE9JTlQgW1wiL2Jpbi9wcm9tZXRoZXVzLWNvbmZpZy1yZWxvYWRlclwiXSIsImVtcHR5X2xheWVyIjp0cnVlfV0sIm9zIjoibGludXgiLCJyb290ZnMiOnsidHlwZSI6ImxheWVycyIsImRpZmZfaWRzIjpbInNoYTI1NjowODQzMjY2MDVhYjY3MTVjYTY5ODQ1M2U1MzBlNGQwMzE5ZDRlNDAyYjQ2ODg5NGEwNmFmZmVmOTQ0YjRlZjA0Iiwic2hhMjU2OjUyOTVmYWEwNDUyMDlmZjk4MDBkMDNmZTFjY2M5NDQzMWRhYzZhNTRkYWMyZWRjN2Y2ZDA2ZWUxZTU4YmIwYmUiLCJzaGEyNTY6M2M0ZWRjYWY1Y2UwNzNjOTllNzhkNDUzNDQyYzM0Yzg1ZmM4ZDZjNGRiYmJiOWNkZmYxNzYzNzI1MzE2NzAxNSJdfX0=",
+   "repoDigests": [],
+   "architecture": "",
+   "os": ""
+  }
+ },
+ "distro": {
+  "prettyName": "BusyBox v1.34.1",
+  "name": "busybox",
+  "id": "busybox",
+  "idLike": [
+   "busybox"
+  ],
+  "version": "1.34.1",
+  "versionID": "1.34.1"
+ },
+ "descriptor": {
+  "name": "syft",
+  "version": "v0.58.0"
+ },
+ "schema": {
+  "version": "4.0.0",
+  "url": "https://raw.githubusercontent.com/anchore/syft/main/schema/json/schema-4.0.0.json"
+ }
+}
